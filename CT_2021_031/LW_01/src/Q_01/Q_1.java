@@ -1,4 +1,5 @@
-import javax.swing.JFrame;
+package Q_01;
+    import javax.swing.JFrame;
 public class Q_1 {
     public static void main(String[] args) {
 
