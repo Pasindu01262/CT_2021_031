@@ -1,3 +1,4 @@
+package Q_09;
 import java.util.Scanner;
 
 public class Q_9{
