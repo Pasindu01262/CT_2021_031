@@ -1,3 +1,4 @@
+package Q_12;
 import javax.swing.JFrame;
 
 public class Q12 {
