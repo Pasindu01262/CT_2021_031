@@ -1,3 +1,4 @@
+package Q_10;
 import java.util.Scanner;
 
 public class Q10 {
